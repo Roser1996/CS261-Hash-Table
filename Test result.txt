@@ -1,0 +1,300 @@
+42Current array size: 500
+Current hash map size: 10177, 10177
+
+Linear Hash: 
+Current load factor is: 0.049130391
+Set: 24.00000000
+Search: 13.00000000
+Delete: 14.00000000
+
+
+Hash Chain: 
+Current load factor is: 0.04913039
+Set: 45.00000000
+Search: 12.00000000
+Delete: 20.00000000
+
+
+Cuckoo Hash: 
+Current load factor is: 0.02456520
+Set: 24.00000000
+Search: 8.00000000
+Delete: 9.00000000
+
+
+Quadratic Hash: 
+Current load factor is: 0.04913039
+Set: 14.00000000
+Search: 9.00000000
+Delete: 10.00000000
+
+Current array size: 1000
+Current hash map size: 10177, 10177
+
+Linear Hash: 
+Current load factor is: 0.098260783
+Set: 104.00000000
+Search: 55.00000000
+Delete: 90.00000000
+
+
+Hash Chain: 
+Current load factor is: 0.09826078
+Set: 46.00000000
+Search: 28.00000000
+Delete: 42.00000000
+
+
+Cuckoo Hash: 
+Current load factor is: 0.04913039
+Set: 50.00000000
+Search: 27.00000000
+Delete: 28.00000000
+
+
+Quadratic Hash: 
+Current load factor is: 0.09826078
+Set: 51.00000000
+Search: 44.00000000
+Delete: 46.00000000
+
+Current array size: 1500
+Current hash map size: 10177, 10177
+
+Linear Hash: 
+Current load factor is: 0.14729291
+Set: 49.00000000
+Search: 26.00000000
+Delete: 50.00000000
+
+
+Hash Chain: 
+Current load factor is: 0.14729291
+Set: 68.00000000
+Search: 38.00000000
+Delete: 62.00000000
+
+
+Cuckoo Hash: 
+Current load factor is: 0.07340080
+Set: 131.00000000
+Search: 49.00000000
+Delete: 47.00000000
+
+
+Quadratic Hash: 
+Current load factor is: 0.14739117
+Set: 75.00000000
+Search: 30.00000000
+Delete: 32.00000000
+
+Current array size: 2000
+Current hash map size: 10177, 10177
+
+Linear Hash: 
+Current load factor is: 0.19652157
+Set: 80.00000000
+Search: 45.00000000
+Delete: 49.00000000
+
+
+Hash Chain: 
+Current load factor is: 0.19652157
+Set: 93.00000000
+Search: 45.00000000
+Delete: 98.00000000
+
+
+Cuckoo Hash: 
+Current load factor is: 0.09742557
+Set: 81.00000000
+Search: 36.00000000
+Delete: 37.00000000
+
+
+Quadratic Hash: 
+Current load factor is: 0.19652157
+Set: 84.00000000
+Search: 46.00000000
+Delete: 49.00000000
+
+Current array size: 2500
+Current hash map size: 10177, 10177
+
+Linear Hash: 
+Current load factor is: 0.24565196
+Set: 77.00000000
+Search: 81.00000000
+Delete: 96.00000000
+
+
+Hash Chain: 
+Current load factor is: 0.24565196
+Set: 155.00000000
+Search: 78.00000000
+Delete: 126.00000000
+
+
+Cuckoo Hash: 
+Current load factor is: 0.12061511
+Set: 290.00000000
+Search: 57.00000000
+Delete: 51.00000000
+
+
+Quadratic Hash: 
+Current load factor is: 0.24565196
+Set: 75.00000000
+Search: 60.00000000
+Delete: 64.00000000
+
+Current array size: 3000
+Current hash map size: 10177, 10177
+
+Linear Hash: 
+Current load factor is: 0.29468408
+Set: 92.00000000
+Search: 59.00000000
+Delete: 84.00000000
+
+
+Hash Chain: 
+Current load factor is: 0.29468408
+Set: 104.00000000
+Search: 56.00000000
+Delete: 91.00000000
+
+
+Cuckoo Hash: 
+Current load factor is: 0.14296944
+Set: 111.00000000
+Search: 59.00000000
+Delete: 61.00000000
+
+
+Quadratic Hash: 
+Current load factor is: 0.29478234
+Set: 168.00000000
+Search: 77.00000000
+Delete: 80.00000000
+
+Current array size: 3500
+Current hash map size: 10177, 10177
+
+Linear Hash: 
+Current load factor is: 0.34391275
+Set: 122.00000000
+Search: 165.00000000
+Delete: 155.00000000
+
+
+Hash Chain: 
+Current load factor is: 0.34391275
+Set: 187.00000000
+Search: 102.00000000
+Delete: 182.00000000
+
+
+Cuckoo Hash: 
+Current load factor is: 0.16497986
+Set: 914.00000000
+Search: 112.00000000
+Delete: 70.00000000
+
+
+Quadratic Hash: 
+Current load factor is: 0.34391275
+Set: 112.00000000
+Search: 85.00000000
+Delete: 142.00000000
+
+Current array size: 4000
+Current hash map size: 10177, 10177
+
+Linear Hash: 
+Current load factor is: 0.39304313
+Set: 148.00000000
+Search: 110.00000000
+Delete: 113.00000000
+
+
+Hash Chain: 
+Current load factor is: 0.39304313
+Set: 189.00000000
+Search: 86.00000000
+Delete: 144.00000000
+
+
+Cuckoo Hash: 
+Current load factor is: 0.18522158
+Set: 13191.00000000
+Search: 128.00000000
+Delete: 92.00000000
+
+
+Quadratic Hash: 
+Current load factor is: 0.39304313
+Set: 152.00000000
+Search: 114.00000000
+Delete: 119.00000000
+
+Current array size: 4500
+Current hash map size: 10177, 10177
+
+Linear Hash: 
+Current load factor is: 0.44217354
+Set: 271.00000000
+Search: 176.00000000
+Delete: 142.00000000
+
+
+Hash Chain: 
+Current load factor is: 0.44217354
+Set: 276.00000000
+Search: 99.00000000
+Delete: 169.00000000
+
+
+Cuckoo Hash: 
+Current load factor is: 0.20290852
+Set: 52120.00000000
+Search: 151.00000000
+Delete: 97.00000000
+
+
+Quadratic Hash: 
+Current load factor is: 0.44217354
+Set: 174.00000000
+Search: 131.00000000
+Delete: 138.00000000
+
+Current array size: 5000
+Current hash map size: 10177, 10177
+
+Linear Hash: 
+Current load factor is: 0.49130392
+Set: 256.00000000
+Search: 173.00000000
+Delete: 160.00000000
+
+
+Hash Chain: 
+Current load factor is: 0.49130392
+Set: 265.00000000
+Search: 128.00000000
+Delete: 214.00000000
+
+
+Cuckoo Hash: 
+Current load factor is: 0.22236416
+Set: 79812.00000000
+Search: 291.00000000
+Delete: 126.00000000
+
+
+Quadratic Hash: 
+Current load factor is: 0.49130392
+Set: 619.00000000
+Search: 770.00000000
+Delete: 1606.00000000
+
