@@ -1,0 +1,1 @@
+This project is the Compsci261 project 1 which contains four hashing algorithms including *Linear Hashing*, *Chained Hashing*, *Cuckoo Hashing* and *Quadratic Hashing*.
